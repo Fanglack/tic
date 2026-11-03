@@ -13,7 +13,7 @@ def display_board(board: list[str]) -> None:
 
 
 def has_won(board: list[str], mark: str) -> bool:
-	"""Return whether mark occupies a complete row, column, or diagonal."""
+	"""Return whether mark occupies a complete row, column, or diagonal!"""
 	winning_lines = (
 		(0, 1, 2),
 		(3, 4, 5),
