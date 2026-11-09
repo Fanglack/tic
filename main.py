@@ -1,4 +1,4 @@
-"""A small, two-player command-line Tic-Tac-Toe game."""
+"""A small, two-player command-line Tic game."""
 
 
 def display_board(board: list[str]) -> None:
